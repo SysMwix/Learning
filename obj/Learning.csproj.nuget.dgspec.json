@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj": {}
+    "c:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj": {
+    "c:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj",
+        "projectUniqueName": "c:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj",
         "projectName": "Learning",
-        "projectPath": "C:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj",
+        "projectPath": "c:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\Learning.csproj",
         "packagesPath": "C:\\Users\\mikew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\obj\\",
+        "outputPath": "c:\\Users\\mikew\\Documents\\Azure Dev Ops\\Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mikew\\AppData\\Roaming\\NuGet\\NuGet.Config"
